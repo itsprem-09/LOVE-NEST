@@ -1,0 +1,12 @@
+const String FNAME = 'FName';
+const String LNAME = 'LName';
+const String EMAIL = 'Email';
+const String PHONE = 'Phone';
+const String DOB = 'DOB';
+const String AGE = 'Age';
+const String CITY = 'City';
+const String GENDER = 'Gender';
+const String HOBBIES = 'Hobbies';
+const String ISWISHLIST = 'isWishlist';
+const String MINAGE = 'minAge';
+const String MAXAGE = 'maxAge';
